@@ -131,3 +131,7 @@ written_2/travel_guides/berlitz2/Canada-WhereToGo.txt:Harbourfront is a bright n
 written_2/travel_guides/berlitz2/Canada-WhereToGo.txt:The 90-minute drive from Toronto to Niagara Falls (130 km/81 miles south of Toronto) curves around the west end of Lake Ontario through the province<E2><80><99>s industrial heartland<C2><A0><E2><80><94><C2><A0>Mississauga, Hamilton, and St. Catharines, known as the Golden Horseshoe. If you want to see the Falls without getting entangled overnight in the mob scene of the tourists (12 million visitors annually), stay over in the quieter town of Niagara-on-
 ```
 This command shows the file name and the content of two string "china" and "heartland" which do not need to in the same line.
+
+
+### Source
+https://git-scm.com/docs/git-grep
