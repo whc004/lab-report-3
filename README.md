@@ -43,7 +43,7 @@ This command shows the line of ```1000``` as well as the contain in the file, wh
 ```
 This command shows the content of two string ```chinatown``` and ```heartland``` in the same line.
 ```
-[cs15lwi23agm@ieng6-202]:berlitz2:314$ grep -e "china" -e heartland Bermuda-WhereToGo.txt
+[cs15lwi23agm@ieng6-202]:berlitz2:314$ grep -e "china" -e "heartland" Bermuda-WhereToGo.txt
 Just behind the Post Office is a building that houses the Bermuda National Library and the Historical Society Museum, prime collections devoted to important historical documents and artifacts from the island. The public rooms are small but full of Bermudian treasures. Silver, china, coins, and furniture have been gathered together, including rare and valuable “hog” money as well as some of the Confederate notes that were used to pay for goods before the Civil War. Many Bermudian businessmen and sailors were paid in money that became worthless after the Unionists won the war.
 Set in the far northeast portion of Bermuda, St. George’s is the island’s oldest town and the historic heartland of the colony. Sir George Somers and his brave band of settlers were heading for Virginia in 1609 when they were shipwrecked on reefs just offshore from here. They were surprised by the natural riches that Bermuda had to offer, as the island had good cedar wood to build more ships. Out of adversity came good fortune, and the settlers soon built two new ships and sailed from Bermuda to complete their original goal of reaching Jamestown. Somers returned to Bermuda the following year but died here before he could develop the town further.
 ```
