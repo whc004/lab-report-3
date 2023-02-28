@@ -11,7 +11,7 @@ Boston-WhereToGo.txt
 ```
 Here, we check whether a file contain a single string ```1000```. If the file contain the name, it will return the file name. 
 
-## git grep -c 
+## grep -c 
 
 ```
 [cs15lwi23agm@ieng6-202]:berlitz2:309$ grep -c "china" Bermuda-WhatToDo.txt 
@@ -23,7 +23,7 @@ We can find a file that shows how many specific word it have(it search for ```ch
 1
 ```
 When we want to check if we mention any data too many time in a file, it helps us save a lot of time for doing by ourselves(it search for  ```1000``` here). 
-## git grep -n
+## grep -n
 
 ```
 [cs15lwi23agm@ieng6-202]:berlitz2:311$ grep -n "china" Bermuda-WhatToDo.txt
@@ -36,7 +36,7 @@ This command return the line, and the content of the line, which is like a dicti
 34:Fishing. All along the coast you will see anglers in boots casting off from the beaches, and others perched on rocks or man-made promontories. A permit is needed for river and lake fishing; details are available from branches of the Portuguese National Tourist Office (see page 169) or the Instituto Florestal (Avenida João Crisóstomo 26, 1000 Lisbon). Angling conditions are generally best in the winter from October to mid-January.
 ```
 This command shows the line of ```1000``` as well as the contain in the file, which is useful when we only want to check the part have ```1000```.
-## git grep -e
+## grep -e
 ```
 [cs15lwi23agm@ieng6-202]:berlitz1:328$ grep -e "chinatown" -e "heartland" WhereToMalaysia.txt
         Chinatown. The heartland of Georgetown’s chinatown is
