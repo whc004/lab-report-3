@@ -52,4 +52,5 @@ This command shows the content of two string ```china``` and ```heartland``` whi
 
 ### Source
 I find this website when I use google to search "grep command"
-[Link][1]:https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+[Link][1]
+[1]:https://www.geeksforgeeks.org/grep-command-in-unixlinux/
